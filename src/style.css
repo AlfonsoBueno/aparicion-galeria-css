@@ -13,7 +13,7 @@ body{
 html {
     scroll-behavior: smooth;
   }
-  
+
 .presentacion{
     text-align: center;
     color: #000;
@@ -25,6 +25,7 @@ html {
 
     h1{
         font-size: 4rem;
+        padding: 20px;
       }
     p{
         color:#464646;
