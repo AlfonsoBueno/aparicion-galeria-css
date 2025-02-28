@@ -81,6 +81,7 @@ html {
 
 @media (width<600px){
     .container{
+        padding: 5px;
         gap: 10px;
     }
 }
