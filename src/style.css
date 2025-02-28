@@ -78,10 +78,3 @@ html {
         scale: 1;
     }
 }
-
-@media (width<600px) {
-    .container{
-        gap:10px;
-    }
-    
-}
