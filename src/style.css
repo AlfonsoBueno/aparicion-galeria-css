@@ -10,7 +10,10 @@ body{
     display: grid;
     place-items: center;
 }
-
+html {
+    scroll-behavior: smooth;
+  }
+  
 .presentacion{
     text-align: center;
     color: #000;
